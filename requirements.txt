@@ -1,0 +1,4 @@
+SQLAlchemy~=2.0.29
+requests~=2.31.0
+python-telegram-bot~=21.1.1
+django-environ~=0.11.2
